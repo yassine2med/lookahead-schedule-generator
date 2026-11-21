@@ -2,6 +2,8 @@
 
 # lookahead-schedule-generator
 
+[![CI](https://github.com/yassine2med/lookahead-schedule-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/lookahead-schedule-generator/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Build a three-week lookahead report from a schedule CSV, grouped by week and trade.
 
 ![Screenshot](docs/screenshot.png)

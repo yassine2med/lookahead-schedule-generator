@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="lookahead-schedule-generator" width="100%"></p>
+
 # lookahead-schedule-generator
 
 Build a three-week lookahead report from a schedule CSV, grouped by week and trade.
